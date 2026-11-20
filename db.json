@@ -1,0 +1,20 @@
+{
+    "vakken": [
+        {"id": 1, "naam": "Informatica voor IoT 2", "docent": "Vincent"},
+        {"id": 2, "naam": "Embedded systemen: Connecties", "docent": "Hans"},
+        {"id": 3, "naam": "Professionele ontwikkeling", "docent": "Vincent"}
+    ],
+    "taken": [
+        {"id": 1, "titel": "Opdracht 3a afwerken", "vak_id": 1, "deadline": "2026-11-20", "klaar": false},
+        {"id": 2, "titel": "Oefening JSON-data ophalen", "vak_id": 1, "deadline": "2026-11-19", "klaar": true},
+        {"id": 3, "titel": "Kennistoets RESTful API's en JSON", "vak_id": 1, "deadline": "2026-11-27", "klaar": false},
+        {"id": 4, "titel": "Casusopdracht 1 voorbereiden", "vak_id": 1, "deadline": "2026-12-04", "klaar": true},
+        {"id": 5, "titel": "Workshop Wi-Fi basisfuncties", "vak_id": 2, "deadline": "2026-11-18", "klaar": false},
+        {"id": 6, "titel": "Workshop Wi-Fi toepassingen: API's en SMTP", "vak_id": 2, "deadline": "2026-11-25", "klaar": false},
+        {"id": 7, "titel": "TaskScheduler theorie doornemen", "vak_id": 2, "deadline": "2026-11-23", "klaar": true},
+        {"id": 8, "titel": "Observatie Wi-Fi Mesh netwerken", "vak_id": 2, "deadline": "2026-12-02", "klaar": false},
+        {"id": 9, "titel": "Opdracht 7 IoT-toepassing analyseren", "vak_id": 3, "deadline": "2026-11-06", "klaar": true},
+        {"id": 10, "titel": "Verslag groepsobservatie", "vak_id": 3, "deadline": "2026-12-11", "klaar": false},
+        {"id": 11, "titel": "Portfolio website online zetten", "vak_id": 3, "deadline": "2026-10-30", "klaar": true}
+    ]
+}
